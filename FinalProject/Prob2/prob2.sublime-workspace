@@ -1,0 +1,484 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ex",
+				"Exception"
+			],
+			[
+				"proje",
+				"Project_06"
+			],
+			[
+				"dfat",
+				"DfaToRE"
+			],
+			[
+				"proj",
+				"Project_04"
+			],
+			[
+				"dra",
+				"drawNFA"
+			],
+			[
+				"rea",
+				"readEpsNFAtable"
+			],
+			[
+				"Pr",
+				"Project_06"
+			],
+			[
+				"pro",
+				"prob6"
+			],
+			[
+				"read",
+				"readEpsNFAtable"
+			],
+			[
+				"inp",
+				"input5"
+			],
+			[
+				"Po",
+				"Project_06"
+			],
+			[
+				"re",
+				"readDFAtable"
+			],
+			[
+				"new",
+				"newDFA"
+			],
+			[
+				"la",
+				"lastCh"
+			],
+			[
+				"wr",
+				"writeDFAtable"
+			],
+			[
+				"newdfa",
+				"newDFA"
+			],
+			[
+				"prob",
+				"prob2"
+			],
+			[
+				"eps",
+				"EpsNFATable"
+			],
+			[
+				"nfa",
+				"nfaV"
+			],
+			[
+				"newal",
+				"newAlphabet"
+			],
+			[
+				"ep",
+				"EpsNFATable"
+			],
+			[
+				"newa",
+				"newAlphabet"
+			],
+			[
+				"k",
+				"kneene_star"
+			],
+			[
+				"pr",
+				"prob2"
+			],
+			[
+				"newOP",
+				"newOP2"
+			],
+			[
+				"newO",
+				"newOP1"
+			],
+			[
+				"las",
+				"lastOperation"
+			],
+			[
+				"newo",
+				"newOP2"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"op",
+				"opU"
+			],
+			[
+				"add",
+				"addition"
+			],
+			[
+				"newen",
+				"newEndingState"
+			],
+			[
+				"wri",
+				"write"
+			],
+			[
+				"start",
+				"startingState"
+			],
+			[
+				"dfa",
+				"dfaAcceptedState"
+			],
+			[
+				"writ",
+				"writeDFAtable"
+			],
+			[
+				"newA",
+				"newAcceptedState"
+			],
+			[
+				"de",
+				"deque"
+			],
+			[
+				"star",
+				"startingState"
+			],
+			[
+				"e",
+				"EpsDfaTable"
+			],
+			[
+				"acc",
+				"acceptedState"
+			],
+			[
+				"p",
+				"prob1"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "problem2.py",
+			"settings":
+			{
+				"buffer_size": 2359,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/E/University/MHTK/FinalProject/Prob2/input2000.txt",
+		"/E/University/MHTK/FinalProject/Prob2/input200.txt",
+		"/E/University/MHTK/FinalProject/Prob2/hello.txt",
+		"/E/ButterflyHub/distance",
+		"/E/test.py",
+		"/E/University/Automata/1312727/Project_03.py",
+		"/E/University/Research Method/IEEEtran.cls",
+		"/C/Users/Dell/Desktop/euclide.py",
+		"/E/University/CryptoApplication/Review.txt",
+		"/E/ButterflyHub/review.txt",
+		"/E/ButterflyHub/Problem.txt",
+		"/C/Users/Dell/Desktop/temp.py",
+		"/E/University/Research Method/review-related work.txt",
+		"/E/University/Research Method/featurelearning.txt",
+		"/E/University/Research Method/abstract.txt",
+		"/E/University/Automata/1312727/input5.txt",
+		"/E/University/Automata/FinalProject/dist/output2.txt",
+		"/E/University/Automata/FinalProject/dist/input2.txt",
+		"/E/University/Automata/FinalProject/dist/out.txt",
+		"/E/University/Automata/FinalProject/dist/input1.txt",
+		"/E/University/Automata/1312727/Project.py",
+		"/E/University/Automata/FinalProject/dist/hoho.txt",
+		"/E/University/Automata/FinalProject/dist/out4.txt",
+		"/E/University/Automata/FinalProject/dist/out3.txt",
+		"/E/University/Automata/FinalProject/dist/input3.txt",
+		"/E/University/Automata/FinalProject/dist/out2.txt",
+		"/E/University/Automata/FinalProject/dist/out1.txt",
+		"/E/University/Automata/1312727/input2.txt",
+		"/E/University/Automata/FinalProject/dist/output1.txt",
+		"/E/University/Automata/1312727/input1.txt",
+		"/E/University/CryptoApplication/FinalProject_InfoSecurity/FinalProject_InfoSecurity/Hung.usr",
+		"/E/University/Automata/1312727/output2.txt",
+		"/E/University/Automata/1312727/output5.txt",
+		"/E/University/Automata/1312727/output1.txt",
+		"/E/University/Automata/1312727/output3.txt",
+		"/E/University/Automata/1312727/output4.txt",
+		"/E/University/Automata/FinalProject/output1.txt",
+		"/E/University/Automata/FinalProject/Project_01.py",
+		"/E/University/Automata/FinalProject/output.txt",
+		"/E/University/Automata/FinalProject/Project_06.py",
+		"/E/University/Automata/FinalProject/input2.txt",
+		"/E/University/Automata/FinalProject/input1.txt",
+		"/E/University/Automata/FinalProject/input5.txt",
+		"/E/University/Automata/FinalProject/setup.py",
+		"/E/University/Automata/FinalProject/Project.py",
+		"/E/University/Automata/FinalProject/Project_05.py",
+		"/E/University/Automata/FinalProject/SDK.py",
+		"/E/University/Automata/FinalProject/Project_02.py",
+		"/E/University/Automata/FinalProject/Project_03.py",
+		"/E/University/Automata/FinalProject/Project_04.py",
+		"/E/University/Automata/FinalProject/output3.txt",
+		"/E/University/Automata/FinalProject/DoAnAutomat.pdf",
+		"/E/University/Automata/FinalProject/FinalProject.sublime-project",
+		"/F/temp.py",
+		"/E/University/Automata/FinalProject/draft.py",
+		"/F/h.py",
+		"/E/caffe-windows/data/mnist/get_mnist.sh",
+		"/C/Users/Dell/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Dell/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Dell/Desktop/test.cpp",
+		"/C/Users/Dell/Downloads/Compressed/py-faster-rcnn/faster_rcnn_end2end.sh",
+		"/C/Users/Dell/AppData/Local/Temp/Rar$DIa0.916/UBD.py",
+		"/E/University/ATPHDL/FILE_HEADER.TXT",
+		"/E/University/Research Method/Report1b.txt",
+		"/E/caffe-windows/windows/CommonSettings.props",
+		"/C/Users/Dell/Desktop/CommonSettings.props",
+		"/C/Users/Dell/Desktop/huhu.py"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"break",
+			"pagebreak",
+			"page",
+			"'eps'",
+			"EpsDfa",
+			"elif"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"EPS",
+			"EpsNFA"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "problem2.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2359,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2218,
+								2218
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1025.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 392.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "prob2.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
