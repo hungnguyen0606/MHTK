@@ -6,6 +6,7 @@ from sklearn import svm
 from sklearn import linear_model
 from sklearn import preprocessing
 from sklearn.cross_validation import KFold
+from sklearn import cross_validation
 
 a, b, c = 7, 2, 7
 f = lambda x, y: int(a*x + b*y + c*x*y) % 3
@@ -128,7 +129,7 @@ def main():
     #getInfo(x)
 
     
-    listInput = ['input200.txt']
+    listInput = ['input2000.txt']
     try:
 
         for i in range(len(listInput)):
@@ -142,6 +143,10 @@ def main():
             #generate Kfold index
             kf = KFold(N, 10)
 
+            # accuracy2 = cross_validation.cross_val_score(regr, x, z, cv=10)
+            # accuracy1 = cross_validation.cross_val_score(svm_clf, x, z, cv=10)
+            
+            #print accuracy
             svm_acc = []
             reg_acc = []
 
@@ -159,8 +164,7 @@ def main():
 
                 reg_acc.append(np.sum(nz==z[test_id])*1.0/test_id.size)
 
-            print svm_acc
-            print reg_acc
+            # print np.mean(accuracy1)*100, np.mean(accuracy2)
             print np.mean(svm_acc)*100, np.mean(reg_acc)*100
             print np.std(svm_acc), np.std(reg_acc)
     except Exception as err:

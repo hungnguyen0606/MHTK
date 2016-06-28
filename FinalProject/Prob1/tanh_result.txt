@@ -1,0 +1,901 @@
+Epoch  0 , training err  77.828 %, val err  78.33 %, patience  20 
+
+Epoch  1 , training err  73.58 %, val err  73.65 %, patience  20 
+
+Epoch  2 , training err  76.49 %, val err  76.94 %, patience  19 
+
+Epoch  3 , training err  73.308 %, val err  73.42 %, patience  20 
+
+Epoch  4 , training err  79.35 %, val err  79.0 %, patience  19 
+
+Epoch  5 , training err  73.16 %, val err  73.62 %, patience  18 
+
+Epoch  6 , training err  72.688 %, val err  72.21 %, patience  20 
+
+Epoch  7 , training err  76.986 %, val err  77.58 %, patience  19 
+
+Epoch  8 , training err  73.378 %, val err  73.34 %, patience  18 
+
+Epoch  9 , training err  76.536 %, val err  76.52 %, patience  17 
+
+Epoch  10 , training err  72.546 %, val err  72.57 %, patience  16 
+
+Epoch  11 , training err  72.818 %, val err  72.68 %, patience  15 
+
+Epoch  12 , training err  74.452 %, val err  73.87 %, patience  14 
+
+Epoch  13 , training err  73.894 %, val err  73.76 %, patience  13 
+
+Epoch  14 , training err  79.102 %, val err  78.94 %, patience  12 
+
+Epoch  15 , training err  79.84 %, val err  79.12 %, patience  11 
+
+Epoch  16 , training err  75.842 %, val err  76.44 %, patience  10 
+
+Epoch  17 , training err  72.954 %, val err  72.48 %, patience  9 
+
+Epoch  18 , training err  73.952 %, val err  73.59 %, patience  8 
+
+Epoch  19 , training err  75.032 %, val err  75.8 %, patience  7 
+
+Epoch  20 , training err  73.79 %, val err  73.79 %, patience  6 
+
+Epoch  21 , training err  75.208 %, val err  75.79 %, patience  5 
+
+Epoch  22 , training err  74.724 %, val err  74.84 %, patience  4 
+
+Epoch  23 , training err  77.866 %, val err  77.3 %, patience  3 
+
+Epoch  24 , training err  75.63 %, val err  75.4 %, patience  2 
+
+Epoch  25 , training err  73.348 %, val err  73.09 %, patience  1 
+
+Epoch  26 , training err  75.298 %, val err  75.07 %, patience  0 
+
+Best val err  72.21 % at epoch  6  corresponding train err  72.688 %
+Epoch  0 , training err  60.136 %, val err  59.9 %, patience  20 
+
+Epoch  1 , training err  57.578 %, val err  57.57 %, patience  20 
+
+Epoch  2 , training err  62.144 %, val err  61.38 %, patience  19 
+
+Epoch  3 , training err  60.564 %, val err  60.4 %, patience  18 
+
+Epoch  4 , training err  61.192 %, val err  60.81 %, patience  17 
+
+Epoch  5 , training err  60.782 %, val err  60.86 %, patience  16 
+
+Epoch  6 , training err  61.05 %, val err  60.6 %, patience  15 
+
+Epoch  7 , training err  61.016 %, val err  61.97 %, patience  14 
+
+Epoch  8 , training err  60.286 %, val err  60.08 %, patience  13 
+
+Epoch  9 , training err  61.952 %, val err  61.7 %, patience  12 
+
+Epoch  10 , training err  61.77 %, val err  62.16 %, patience  11 
+
+Epoch  11 , training err  61.546 %, val err  61.39 %, patience  10 
+
+Epoch  12 , training err  63.136 %, val err  63.54 %, patience  9 
+
+Epoch  13 , training err  60.572 %, val err  61.57 %, patience  8 
+
+Epoch  14 , training err  60.804 %, val err  60.62 %, patience  7 
+
+Epoch  15 , training err  61.514 %, val err  61.12 %, patience  6 
+
+Epoch  16 , training err  61.948 %, val err  61.51 %, patience  5 
+
+Epoch  17 , training err  60.128 %, val err  60.77 %, patience  4 
+
+Epoch  18 , training err  60.948 %, val err  60.56 %, patience  3 
+
+Epoch  19 , training err  62.148 %, val err  61.5 %, patience  2 
+
+Epoch  20 , training err  61.476 %, val err  61.99 %, patience  1 
+
+Epoch  21 , training err  61.372 %, val err  62.18 %, patience  0 
+
+Best val err  57.57 % at epoch  1  corresponding train err  57.578 %
+Epoch  0 , training err  16.536 %, val err  15.49 %, patience  20 
+
+Epoch  1 , training err  14.02 %, val err  13.56 %, patience  20 
+
+Epoch  2 , training err  12.236 %, val err  12.21 %, patience  20 
+
+Epoch  3 , training err  14.26 %, val err  14.13 %, patience  19 
+
+Epoch  4 , training err  13.62 %, val err  13.38 %, patience  18 
+
+Epoch  5 , training err  12.562 %, val err  12.88 %, patience  17 
+
+Epoch  6 , training err  12.162 %, val err  12.43 %, patience  16 
+
+Epoch  7 , training err  12.658 %, val err  12.91 %, patience  15 
+
+Epoch  8 , training err  13.27 %, val err  13.42 %, patience  14 
+
+Epoch  9 , training err  11.646 %, val err  12.01 %, patience  20 
+
+Epoch  10 , training err  12.518 %, val err  12.51 %, patience  19 
+
+Epoch  11 , training err  12.354 %, val err  12.54 %, patience  18 
+
+Epoch  12 , training err  12.41 %, val err  12.41 %, patience  17 
+
+Epoch  13 , training err  12.238 %, val err  12.55 %, patience  16 
+
+Epoch  14 , training err  12.85 %, val err  13.3 %, patience  15 
+
+Epoch  15 , training err  11.746 %, val err  12.24 %, patience  14 
+
+Epoch  16 , training err  11.94 %, val err  12.36 %, patience  13 
+
+Epoch  17 , training err  12.866 %, val err  12.37 %, patience  12 
+
+Epoch  18 , training err  13.064 %, val err  13.23 %, patience  11 
+
+Epoch  19 , training err  12.744 %, val err  13.23 %, patience  10 
+
+Epoch  20 , training err  13.49 %, val err  13.47 %, patience  9 
+
+Epoch  21 , training err  11.164 %, val err  11.89 %, patience  20 
+
+Epoch  22 , training err  12.032 %, val err  12.27 %, patience  19 
+
+Epoch  23 , training err  12.344 %, val err  12.57 %, patience  18 
+
+Epoch  24 , training err  12.91 %, val err  13.5 %, patience  17 
+
+Epoch  25 , training err  12.232 %, val err  12.3 %, patience  16 
+
+Epoch  26 , training err  12.628 %, val err  13.11 %, patience  15 
+
+Epoch  27 , training err  11.856 %, val err  12.14 %, patience  14 
+
+Epoch  28 , training err  13.186 %, val err  13.58 %, patience  13 
+
+Epoch  29 , training err  11.88 %, val err  12.54 %, patience  12 
+
+Epoch  30 , training err  13.656 %, val err  13.52 %, patience  11 
+
+Epoch  31 , training err  12.216 %, val err  12.62 %, patience  10 
+
+Epoch  32 , training err  12.592 %, val err  12.84 %, patience  9 
+
+Epoch  33 , training err  12.674 %, val err  12.77 %, patience  8 
+
+Epoch  34 , training err  12.176 %, val err  12.62 %, patience  7 
+
+Epoch  35 , training err  11.938 %, val err  12.17 %, patience  6 
+
+Epoch  36 , training err  12.442 %, val err  12.89 %, patience  5 
+
+Epoch  37 , training err  13.604 %, val err  13.92 %, patience  4 
+
+Epoch  38 , training err  11.692 %, val err  11.89 %, patience  3 
+
+Epoch  39 , training err  11.876 %, val err  12.18 %, patience  2 
+
+Epoch  40 , training err  11.542 %, val err  12.0 %, patience  1 
+
+Epoch  41 , training err  12.304 %, val err  12.9 %, patience  0 
+
+Best val err  11.89 % at epoch  21  corresponding train err  11.164 %
+Epoch  0 , training err  8.582 %, val err  8.25 %, patience  20 
+
+Epoch  1 , training err  7.71 %, val err  7.57 %, patience  20 
+
+Epoch  2 , training err  5.968 %, val err  6.39 %, patience  20 
+
+Epoch  3 , training err  5.678 %, val err  5.99 %, patience  20 
+
+Epoch  4 , training err  6.244 %, val err  6.31 %, patience  19 
+
+Epoch  5 , training err  5.676 %, val err  6.44 %, patience  18 
+
+Epoch  6 , training err  5.47 %, val err  6.26 %, patience  17 
+
+Epoch  7 , training err  5.882 %, val err  6.64 %, patience  16 
+
+Epoch  8 , training err  5.744 %, val err  6.26 %, patience  15 
+
+Epoch  9 , training err  4.89 %, val err  5.61 %, patience  20 
+
+Epoch  10 , training err  5.462 %, val err  6.34 %, patience  19 
+
+Epoch  11 , training err  4.974 %, val err  5.95 %, patience  18 
+
+Epoch  12 , training err  6.144 %, val err  6.93 %, patience  17 
+
+Epoch  13 , training err  4.744 %, val err  5.63 %, patience  16 
+
+Epoch  14 , training err  4.994 %, val err  5.67 %, patience  15 
+
+Epoch  15 , training err  4.798 %, val err  5.64 %, patience  14 
+
+Epoch  16 , training err  4.916 %, val err  5.6 %, patience  20 
+
+Epoch  17 , training err  4.816 %, val err  5.63 %, patience  19 
+
+Epoch  18 , training err  4.816 %, val err  5.87 %, patience  18 
+
+Epoch  19 , training err  4.604 %, val err  5.5 %, patience  20 
+
+Epoch  20 , training err  4.606 %, val err  5.79 %, patience  19 
+
+Epoch  21 , training err  4.876 %, val err  5.66 %, patience  18 
+
+Epoch  22 , training err  4.728 %, val err  5.57 %, patience  17 
+
+Epoch  23 , training err  5.038 %, val err  5.94 %, patience  16 
+
+Epoch  24 , training err  4.35 %, val err  5.45 %, patience  20 
+
+Epoch  25 , training err  4.642 %, val err  5.76 %, patience  19 
+
+Epoch  26 , training err  4.48 %, val err  5.43 %, patience  20 
+
+Epoch  27 , training err  4.78 %, val err  5.79 %, patience  19 
+
+Epoch  28 , training err  4.438 %, val err  5.3 %, patience  20 
+
+Epoch  29 , training err  4.964 %, val err  5.9 %, patience  19 
+
+Epoch  30 , training err  4.618 %, val err  5.49 %, patience  18 
+
+Epoch  31 , training err  4.748 %, val err  5.72 %, patience  17 
+
+Epoch  32 , training err  4.28 %, val err  5.4 %, patience  16 
+
+Epoch  33 , training err  4.234 %, val err  5.28 %, patience  20 
+
+Epoch  34 , training err  4.396 %, val err  5.65 %, patience  19 
+
+Epoch  35 , training err  4.32 %, val err  5.42 %, patience  18 
+
+Epoch  36 , training err  4.686 %, val err  5.6 %, patience  17 
+
+Epoch  37 , training err  4.894 %, val err  5.97 %, patience  16 
+
+Epoch  38 , training err  3.972 %, val err  5.21 %, patience  20 
+
+Epoch  39 , training err  4.948 %, val err  6.24 %, patience  19 
+
+Epoch  40 , training err  4.594 %, val err  5.81 %, patience  18 
+
+Epoch  41 , training err  4.702 %, val err  5.8 %, patience  17 
+
+Epoch  42 , training err  4.162 %, val err  5.48 %, patience  16 
+
+Epoch  43 , training err  4.056 %, val err  5.16 %, patience  20 
+
+Epoch  44 , training err  4.902 %, val err  5.82 %, patience  19 
+
+Epoch  45 , training err  4.034 %, val err  5.12 %, patience  20 
+
+Epoch  46 , training err  4.436 %, val err  5.69 %, patience  19 
+
+Epoch  47 , training err  3.954 %, val err  5.12 %, patience  18 
+
+Epoch  48 , training err  4.29 %, val err  5.46 %, patience  17 
+
+Epoch  49 , training err  4.028 %, val err  5.04 %, patience  20 
+
+Epoch  50 , training err  4.084 %, val err  5.27 %, patience  19 
+
+Epoch  51 , training err  4.474 %, val err  5.51 %, patience  18 
+
+Epoch  52 , training err  4.52 %, val err  5.48 %, patience  17 
+
+Epoch  53 , training err  4.422 %, val err  5.49 %, patience  16 
+
+Epoch  54 , training err  5.19 %, val err  6.05 %, patience  15 
+
+Epoch  55 , training err  4.552 %, val err  5.65 %, patience  14 
+
+Epoch  56 , training err  4.312 %, val err  5.17 %, patience  13 
+
+Epoch  57 , training err  4.338 %, val err  5.34 %, patience  12 
+
+Epoch  58 , training err  4.646 %, val err  5.61 %, patience  11 
+
+Epoch  59 , training err  3.994 %, val err  5.19 %, patience  10 
+
+Epoch  60 , training err  4.454 %, val err  5.32 %, patience  9 
+
+Epoch  61 , training err  4.356 %, val err  5.37 %, patience  8 
+
+Epoch  62 , training err  4.282 %, val err  5.3 %, patience  7 
+
+Epoch  63 , training err  4.032 %, val err  5.25 %, patience  6 
+
+Epoch  64 , training err  3.854 %, val err  5.0 %, patience  20 
+
+Epoch  65 , training err  4.222 %, val err  5.21 %, patience  19 
+
+Epoch  66 , training err  4.702 %, val err  5.53 %, patience  18 
+
+Epoch  67 , training err  4.33 %, val err  5.24 %, patience  17 
+
+Epoch  68 , training err  4.398 %, val err  5.23 %, patience  16 
+
+Epoch  69 , training err  4.474 %, val err  5.68 %, patience  15 
+
+Epoch  70 , training err  3.99 %, val err  5.13 %, patience  14 
+
+Epoch  71 , training err  3.968 %, val err  4.99 %, patience  20 
+
+Epoch  72 , training err  3.682 %, val err  4.55 %, patience  20 
+
+Epoch  73 , training err  5.544 %, val err  6.33 %, patience  19 
+
+Epoch  74 , training err  4.134 %, val err  4.98 %, patience  18 
+
+Epoch  75 , training err  4.614 %, val err  5.46 %, patience  17 
+
+Epoch  76 , training err  4.342 %, val err  5.41 %, patience  16 
+
+Epoch  77 , training err  4.494 %, val err  5.45 %, patience  15 
+
+Epoch  78 , training err  4.296 %, val err  5.22 %, patience  14 
+
+Epoch  79 , training err  3.784 %, val err  4.88 %, patience  13 
+
+Epoch  80 , training err  4.202 %, val err  5.31 %, patience  12 
+
+Epoch  81 , training err  3.806 %, val err  4.7 %, patience  11 
+
+Epoch  82 , training err  3.89 %, val err  4.92 %, patience  10 
+
+Epoch  83 , training err  4.156 %, val err  5.54 %, patience  9 
+
+Epoch  84 , training err  3.798 %, val err  4.8 %, patience  8 
+
+Epoch  85 , training err  4.542 %, val err  5.4 %, patience  7 
+
+Epoch  86 , training err  4.204 %, val err  5.23 %, patience  6 
+
+Epoch  87 , training err  4.824 %, val err  5.59 %, patience  5 
+
+Epoch  88 , training err  4.08 %, val err  5.08 %, patience  4 
+
+Epoch  89 , training err  4.0 %, val err  4.79 %, patience  3 
+
+Epoch  90 , training err  4.004 %, val err  5.01 %, patience  2 
+
+Epoch  91 , training err  4.136 %, val err  4.94 %, patience  1 
+
+Epoch  92 , training err  4.36 %, val err  5.68 %, patience  0 
+
+Best val err  4.55 % at epoch  72  corresponding train err  3.682 %
+Epoch  0 , training err  6.77 %, val err  6.82 %, patience  20 
+
+Epoch  1 , training err  4.92 %, val err  5.14 %, patience  20 
+
+Epoch  2 , training err  4.534 %, val err  4.88 %, patience  20 
+
+Epoch  3 , training err  5.068 %, val err  5.64 %, patience  19 
+
+Epoch  4 , training err  3.798 %, val err  4.59 %, patience  20 
+
+Epoch  5 , training err  3.884 %, val err  4.66 %, patience  19 
+
+Epoch  6 , training err  4.554 %, val err  4.93 %, patience  18 
+
+Epoch  7 , training err  4.158 %, val err  4.71 %, patience  17 
+
+Epoch  8 , training err  3.684 %, val err  4.54 %, patience  20 
+
+Epoch  9 , training err  3.906 %, val err  4.56 %, patience  19 
+
+Epoch  10 , training err  3.902 %, val err  4.48 %, patience  20 
+
+Epoch  11 , training err  4.172 %, val err  4.83 %, patience  19 
+
+Epoch  12 , training err  3.404 %, val err  4.55 %, patience  18 
+
+Epoch  13 , training err  3.4 %, val err  4.42 %, patience  20 
+
+Epoch  14 , training err  3.704 %, val err  4.61 %, patience  19 
+
+Epoch  15 , training err  3.616 %, val err  4.76 %, patience  18 
+
+Epoch  16 , training err  3.634 %, val err  4.77 %, patience  17 
+
+Epoch  17 , training err  3.512 %, val err  4.68 %, patience  16 
+
+Epoch  18 , training err  3.186 %, val err  4.19 %, patience  20 
+
+Epoch  19 , training err  3.924 %, val err  5.07 %, patience  19 
+
+Epoch  20 , training err  3.268 %, val err  4.54 %, patience  18 
+
+Epoch  21 , training err  3.282 %, val err  4.57 %, patience  17 
+
+Epoch  22 , training err  3.126 %, val err  4.33 %, patience  16 
+
+Epoch  23 , training err  3.39 %, val err  4.49 %, patience  15 
+
+Epoch  24 , training err  3.1 %, val err  4.32 %, patience  14 
+
+Epoch  25 , training err  3.294 %, val err  4.47 %, patience  13 
+
+Epoch  26 , training err  3.772 %, val err  4.78 %, patience  12 
+
+Epoch  27 , training err  3.196 %, val err  4.59 %, patience  11 
+
+Epoch  28 , training err  3.146 %, val err  4.47 %, patience  10 
+
+Epoch  29 , training err  4.352 %, val err  5.36 %, patience  9 
+
+Epoch  30 , training err  3.29 %, val err  4.48 %, patience  8 
+
+Epoch  31 , training err  3.0 %, val err  4.1 %, patience  20 
+
+Epoch  32 , training err  3.356 %, val err  4.57 %, patience  19 
+
+Epoch  33 , training err  2.972 %, val err  4.07 %, patience  20 
+
+Epoch  34 , training err  3.182 %, val err  4.44 %, patience  19 
+
+Epoch  35 , training err  3.158 %, val err  4.6 %, patience  18 
+
+Epoch  36 , training err  2.958 %, val err  4.32 %, patience  17 
+
+Epoch  37 , training err  3.312 %, val err  4.67 %, patience  16 
+
+Epoch  38 , training err  2.858 %, val err  4.43 %, patience  15 
+
+Epoch  39 , training err  2.956 %, val err  4.19 %, patience  14 
+
+Epoch  40 , training err  3.212 %, val err  4.43 %, patience  13 
+
+Epoch  41 , training err  3.6 %, val err  4.55 %, patience  12 
+
+Epoch  42 , training err  3.082 %, val err  4.33 %, patience  11 
+
+Epoch  43 , training err  3.328 %, val err  4.39 %, patience  10 
+
+Epoch  44 , training err  2.898 %, val err  4.19 %, patience  9 
+
+Epoch  45 , training err  3.088 %, val err  4.08 %, patience  8 
+
+Epoch  46 , training err  3.282 %, val err  4.33 %, patience  7 
+
+Epoch  47 , training err  3.128 %, val err  4.36 %, patience  6 
+
+Epoch  48 , training err  3.48 %, val err  4.61 %, patience  5 
+
+Epoch  49 , training err  3.12 %, val err  4.58 %, patience  4 
+
+Epoch  50 , training err  3.386 %, val err  4.83 %, patience  3 
+
+Epoch  51 , training err  3.104 %, val err  4.27 %, patience  2 
+
+Epoch  52 , training err  3.74 %, val err  4.85 %, patience  1 
+
+Epoch  53 , training err  3.538 %, val err  4.85 %, patience  0 
+
+Best val err  4.07 % at epoch  33  corresponding train err  2.972 %
+Epoch  0 , training err  5.82 %, val err  5.64 %, patience  20 
+
+Epoch  1 , training err  4.308 %, val err  4.51 %, patience  20 
+
+Epoch  2 , training err  3.728 %, val err  4.31 %, patience  20 
+
+Epoch  3 , training err  3.082 %, val err  3.84 %, patience  20 
+
+Epoch  4 , training err  2.998 %, val err  4.03 %, patience  19 
+
+Epoch  5 , training err  2.788 %, val err  3.73 %, patience  20 
+
+Epoch  6 , training err  2.784 %, val err  3.69 %, patience  20 
+
+Epoch  7 , training err  2.954 %, val err  3.92 %, patience  19 
+
+Epoch  8 , training err  2.486 %, val err  3.56 %, patience  20 
+
+Epoch  9 , training err  2.712 %, val err  3.72 %, patience  19 
+
+Epoch  10 , training err  2.37 %, val err  3.75 %, patience  18 
+
+Epoch  11 , training err  2.8 %, val err  3.78 %, patience  17 
+
+Epoch  12 , training err  2.576 %, val err  3.58 %, patience  16 
+
+Epoch  13 , training err  2.29 %, val err  3.3 %, patience  20 
+
+Epoch  14 , training err  2.376 %, val err  3.78 %, patience  19 
+
+Epoch  15 , training err  2.288 %, val err  3.44 %, patience  18 
+
+Epoch  16 , training err  2.412 %, val err  3.49 %, patience  17 
+
+Epoch  17 , training err  1.984 %, val err  3.33 %, patience  16 
+
+Epoch  18 , training err  2.366 %, val err  3.4 %, patience  15 
+
+Epoch  19 , training err  2.368 %, val err  3.66 %, patience  14 
+
+Epoch  20 , training err  2.322 %, val err  3.47 %, patience  13 
+
+Epoch  21 , training err  2.27 %, val err  3.32 %, patience  12 
+
+Epoch  22 , training err  2.322 %, val err  3.61 %, patience  11 
+
+Epoch  23 , training err  2.292 %, val err  3.56 %, patience  10 
+
+Epoch  24 , training err  2.306 %, val err  3.64 %, patience  9 
+
+Epoch  25 , training err  2.318 %, val err  3.77 %, patience  8 
+
+Epoch  26 , training err  2.1 %, val err  3.37 %, patience  7 
+
+Epoch  27 , training err  2.036 %, val err  3.48 %, patience  6 
+
+Epoch  28 , training err  1.87 %, val err  3.12 %, patience  20 
+
+Epoch  29 , training err  2.1 %, val err  3.42 %, patience  19 
+
+Epoch  30 , training err  2.202 %, val err  3.58 %, patience  18 
+
+Epoch  31 , training err  2.054 %, val err  3.25 %, patience  17 
+
+Epoch  32 , training err  2.046 %, val err  3.25 %, patience  16 
+
+Epoch  33 , training err  2.542 %, val err  3.87 %, patience  15 
+
+Epoch  34 , training err  2.258 %, val err  3.54 %, patience  14 
+
+Epoch  35 , training err  1.788 %, val err  3.35 %, patience  13 
+
+Epoch  36 , training err  1.824 %, val err  3.12 %, patience  12 
+
+Epoch  37 , training err  1.928 %, val err  3.25 %, patience  11 
+
+Epoch  38 , training err  1.952 %, val err  3.36 %, patience  10 
+
+Epoch  39 , training err  1.986 %, val err  3.35 %, patience  9 
+
+Epoch  40 , training err  2.152 %, val err  3.61 %, patience  8 
+
+Epoch  41 , training err  2.006 %, val err  3.49 %, patience  7 
+
+Epoch  42 , training err  2.002 %, val err  3.33 %, patience  6 
+
+Epoch  43 , training err  2.076 %, val err  3.49 %, patience  5 
+
+Epoch  44 , training err  2.054 %, val err  3.52 %, patience  4 
+
+Epoch  45 , training err  2.21 %, val err  3.4 %, patience  3 
+
+Epoch  46 , training err  2.118 %, val err  3.8 %, patience  2 
+
+Epoch  47 , training err  1.836 %, val err  3.23 %, patience  1 
+
+Epoch  48 , training err  1.85 %, val err  3.19 %, patience  0 
+
+Best val err  3.12 % at epoch  28  corresponding train err  1.87 %
+Epoch  0 , training err  4.716 %, val err  4.92 %, patience  20 
+
+Epoch  1 , training err  3.642 %, val err  4.24 %, patience  20 
+
+Epoch  2 , training err  3.436 %, val err  3.88 %, patience  20 
+
+Epoch  3 , training err  2.416 %, val err  3.35 %, patience  20 
+
+Epoch  4 , training err  2.63 %, val err  3.82 %, patience  19 
+
+Epoch  5 , training err  1.946 %, val err  3.1 %, patience  20 
+
+Epoch  6 , training err  2.242 %, val err  3.41 %, patience  19 
+
+Epoch  7 , training err  1.842 %, val err  3.1 %, patience  18 
+
+Epoch  8 , training err  1.822 %, val err  3.1 %, patience  17 
+
+Epoch  9 , training err  1.648 %, val err  2.98 %, patience  20 
+
+Epoch  10 , training err  1.798 %, val err  3.16 %, patience  19 
+
+Epoch  11 , training err  1.478 %, val err  3.1 %, patience  18 
+
+Epoch  12 , training err  1.514 %, val err  3.07 %, patience  17 
+
+Epoch  13 , training err  1.45 %, val err  3.16 %, patience  16 
+
+Epoch  14 , training err  1.408 %, val err  2.95 %, patience  20 
+
+Epoch  15 , training err  1.382 %, val err  3.22 %, patience  19 
+
+Epoch  16 , training err  1.64 %, val err  3.22 %, patience  18 
+
+Epoch  17 , training err  1.692 %, val err  3.47 %, patience  17 
+
+Epoch  18 , training err  1.242 %, val err  2.95 %, patience  16 
+
+Epoch  19 , training err  1.458 %, val err  3.04 %, patience  15 
+
+Epoch  20 , training err  1.518 %, val err  3.17 %, patience  14 
+
+Epoch  21 , training err  1.424 %, val err  3.29 %, patience  13 
+
+Epoch  22 , training err  1.466 %, val err  3.42 %, patience  12 
+
+Epoch  23 , training err  1.53 %, val err  3.32 %, patience  11 
+
+Epoch  24 , training err  1.308 %, val err  3.38 %, patience  10 
+
+Epoch  25 , training err  1.392 %, val err  3.27 %, patience  9 
+
+Epoch  26 , training err  1.168 %, val err  2.9 %, patience  20 
+
+Epoch  27 , training err  1.914 %, val err  3.55 %, patience  19 
+
+Epoch  28 , training err  1.148 %, val err  3.04 %, patience  18 
+
+Epoch  29 , training err  1.188 %, val err  2.93 %, patience  17 
+
+Epoch  30 , training err  1.626 %, val err  3.36 %, patience  16 
+
+Epoch  31 , training err  2.374 %, val err  4.05 %, patience  15 
+
+Epoch  32 , training err  1.696 %, val err  3.38 %, patience  14 
+
+Epoch  33 , training err  1.154 %, val err  3.07 %, patience  13 
+
+Epoch  34 , training err  1.808 %, val err  3.39 %, patience  12 
+
+Epoch  35 , training err  1.388 %, val err  3.27 %, patience  11 
+
+Epoch  36 , training err  1.392 %, val err  3.02 %, patience  10 
+
+Epoch  37 , training err  1.078 %, val err  2.88 %, patience  20 
+
+Epoch  38 , training err  1.284 %, val err  3.06 %, patience  19 
+
+Epoch  39 , training err  0.996 %, val err  2.86 %, patience  20 
+
+Epoch  40 , training err  1.324 %, val err  3.26 %, patience  19 
+
+Epoch  41 , training err  1.524 %, val err  3.42 %, patience  18 
+
+Epoch  42 , training err  1.248 %, val err  3.17 %, patience  17 
+
+Epoch  43 , training err  1.136 %, val err  3.02 %, patience  16 
+
+Epoch  44 , training err  1.182 %, val err  2.99 %, patience  15 
+
+Epoch  45 , training err  1.54 %, val err  3.43 %, patience  14 
+
+Epoch  46 , training err  1.252 %, val err  3.07 %, patience  13 
+
+Epoch  47 , training err  1.272 %, val err  3.02 %, patience  12 
+
+Epoch  48 , training err  1.126 %, val err  3.04 %, patience  11 
+
+Epoch  49 , training err  1.524 %, val err  3.32 %, patience  10 
+
+Epoch  50 , training err  1.3 %, val err  3.13 %, patience  9 
+
+Epoch  51 , training err  1.258 %, val err  2.99 %, patience  8 
+
+Epoch  52 , training err  1.196 %, val err  2.89 %, patience  7 
+
+Epoch  53 , training err  0.934 %, val err  2.95 %, patience  6 
+
+Epoch  54 , training err  1.226 %, val err  3.14 %, patience  5 
+
+Epoch  55 , training err  1.308 %, val err  3.06 %, patience  4 
+
+Epoch  56 , training err  1.078 %, val err  3.04 %, patience  3 
+
+Epoch  57 , training err  1.576 %, val err  3.5 %, patience  2 
+
+Epoch  58 , training err  1.884 %, val err  3.92 %, patience  1 
+
+Epoch  59 , training err  1.038 %, val err  2.94 %, patience  0 
+
+Best val err  2.86 % at epoch  39  corresponding train err  0.996 %
+Epoch  0 , training err  4.724 %, val err  4.7 %, patience  20 
+
+Epoch  1 , training err  3.268 %, val err  3.62 %, patience  20 
+
+Epoch  2 , training err  2.64 %, val err  3.38 %, patience  20 
+
+Epoch  3 , training err  2.17 %, val err  3.21 %, patience  20 
+
+Epoch  4 , training err  2.242 %, val err  3.52 %, patience  19 
+
+Epoch  5 , training err  1.774 %, val err  3.08 %, patience  20 
+
+Epoch  6 , training err  1.81 %, val err  3.15 %, patience  19 
+
+Epoch  7 , training err  1.608 %, val err  3.18 %, patience  18 
+
+Epoch  8 , training err  1.674 %, val err  3.06 %, patience  20 
+
+Epoch  9 , training err  1.572 %, val err  3.25 %, patience  19 
+
+Epoch  10 , training err  1.438 %, val err  3.07 %, patience  18 
+
+Epoch  11 , training err  1.496 %, val err  3.35 %, patience  17 
+
+Epoch  12 , training err  1.224 %, val err  3.01 %, patience  20 
+
+Epoch  13 , training err  1.462 %, val err  3.1 %, patience  19 
+
+Epoch  14 , training err  1.502 %, val err  3.13 %, patience  18 
+
+Epoch  15 , training err  2.202 %, val err  3.79 %, patience  17 
+
+Epoch  16 , training err  1.096 %, val err  2.67 %, patience  20 
+
+Epoch  17 , training err  1.198 %, val err  2.93 %, patience  19 
+
+Epoch  18 , training err  1.048 %, val err  2.73 %, patience  18 
+
+Epoch  19 , training err  1.174 %, val err  3.05 %, patience  17 
+
+Epoch  20 , training err  1.072 %, val err  2.92 %, patience  16 
+
+Epoch  21 , training err  1.02 %, val err  2.86 %, patience  15 
+
+Epoch  22 , training err  1.138 %, val err  2.97 %, patience  14 
+
+Epoch  23 , training err  0.998 %, val err  2.75 %, patience  13 
+
+Epoch  24 , training err  0.828 %, val err  2.8 %, patience  12 
+
+Epoch  25 , training err  1.046 %, val err  2.83 %, patience  11 
+
+Epoch  26 , training err  1.076 %, val err  3.07 %, patience  10 
+
+Epoch  27 , training err  0.838 %, val err  2.79 %, patience  9 
+
+Epoch  28 , training err  1.13 %, val err  2.91 %, patience  8 
+
+Epoch  29 , training err  1.092 %, val err  2.87 %, patience  7 
+
+Epoch  30 , training err  0.912 %, val err  2.82 %, patience  6 
+
+Epoch  31 , training err  1.074 %, val err  2.88 %, patience  5 
+
+Epoch  32 , training err  1.03 %, val err  2.85 %, patience  4 
+
+Epoch  33 , training err  0.752 %, val err  2.6 %, patience  20 
+
+Epoch  34 , training err  0.94 %, val err  2.75 %, patience  19 
+
+Epoch  35 , training err  0.856 %, val err  2.84 %, patience  18 
+
+Epoch  36 , training err  0.906 %, val err  2.76 %, patience  17 
+
+Epoch  37 , training err  1.078 %, val err  2.88 %, patience  16 
+
+Epoch  38 , training err  0.904 %, val err  2.85 %, patience  15 
+
+Epoch  39 , training err  0.868 %, val err  2.88 %, patience  14 
+
+Epoch  40 , training err  0.87 %, val err  2.79 %, patience  13 
+
+Epoch  41 , training err  0.96 %, val err  2.85 %, patience  12 
+
+Epoch  42 , training err  1.008 %, val err  2.82 %, patience  11 
+
+Epoch  43 , training err  1.474 %, val err  3.09 %, patience  10 
+
+Epoch  44 , training err  0.854 %, val err  2.66 %, patience  9 
+
+Epoch  45 , training err  0.96 %, val err  2.74 %, patience  8 
+
+Epoch  46 , training err  0.974 %, val err  2.78 %, patience  7 
+
+Epoch  47 , training err  1.246 %, val err  3.14 %, patience  6 
+
+Epoch  48 , training err  0.724 %, val err  2.65 %, patience  5 
+
+Epoch  49 , training err  1.166 %, val err  2.72 %, patience  4 
+
+Epoch  50 , training err  0.918 %, val err  2.82 %, patience  3 
+
+Epoch  51 , training err  0.814 %, val err  2.66 %, patience  2 
+
+Epoch  52 , training err  0.792 %, val err  2.76 %, patience  1 
+
+Epoch  53 , training err  1.314 %, val err  3.04 %, patience  0 
+
+Best val err  2.6 % at epoch  33  corresponding train err  0.752 %
+Epoch  0 , training err  4.476 %, val err  4.42 %, patience  20 
+
+Epoch  1 , training err  3.408 %, val err  3.69 %, patience  20 
+
+Epoch  2 , training err  2.652 %, val err  3.45 %, patience  20 
+
+Epoch  3 , training err  1.704 %, val err  2.7 %, patience  20 
+
+Epoch  4 , training err  1.59 %, val err  2.55 %, patience  20 
+
+Epoch  5 , training err  1.238 %, val err  2.52 %, patience  20 
+
+Epoch  6 , training err  1.092 %, val err  2.4 %, patience  20 
+
+Epoch  7 , training err  0.96 %, val err  2.38 %, patience  20 
+
+Epoch  8 , training err  0.788 %, val err  2.44 %, patience  19 
+
+Epoch  9 , training err  0.836 %, val err  2.26 %, patience  20 
+
+Epoch  10 , training err  0.766 %, val err  2.35 %, patience  19 
+
+Epoch  11 , training err  0.738 %, val err  2.32 %, patience  18 
+
+Epoch  12 , training err  0.586 %, val err  2.19 %, patience  20 
+
+Epoch  13 , training err  0.676 %, val err  2.33 %, patience  19 
+
+Epoch  14 , training err  0.622 %, val err  2.28 %, patience  18 
+
+Epoch  15 , training err  0.68 %, val err  2.56 %, patience  17 
+
+Epoch  16 , training err  0.516 %, val err  2.21 %, patience  16 
+
+Epoch  17 , training err  0.552 %, val err  2.37 %, patience  15 
+
+Epoch  18 , training err  0.616 %, val err  2.27 %, patience  14 
+
+Epoch  19 , training err  0.544 %, val err  2.27 %, patience  13 
+
+Epoch  20 , training err  0.436 %, val err  2.15 %, patience  20 
+
+Epoch  21 , training err  0.356 %, val err  2.05 %, patience  20 
+
+Epoch  22 , training err  0.344 %, val err  2.05 %, patience  19 
+
+Epoch  23 , training err  0.584 %, val err  2.41 %, patience  18 
+
+Epoch  24 , training err  0.424 %, val err  1.91 %, patience  20 
+
+Epoch  25 , training err  0.684 %, val err  2.42 %, patience  19 
+
+Epoch  26 , training err  0.516 %, val err  2.31 %, patience  18 
+
+Epoch  27 , training err  0.358 %, val err  2.1 %, patience  17 
+
+Epoch  28 , training err  0.7 %, val err  2.3 %, patience  16 
+
+Epoch  29 , training err  0.442 %, val err  2.2 %, patience  15 
+
+Epoch  30 , training err  0.37 %, val err  2.0 %, patience  14 
+
+Epoch  31 , training err  0.432 %, val err  2.11 %, patience  13 
+
+Epoch  32 , training err  0.676 %, val err  2.37 %, patience  12 
+
+Epoch  33 , training err  0.528 %, val err  2.21 %, patience  11 
+
+Epoch  34 , training err  0.272 %, val err  2.01 %, patience  10 
+
+Epoch  35 , training err  0.266 %, val err  1.99 %, patience  9 
+
+Epoch  36 , training err  0.486 %, val err  2.24 %, patience  8 
+
+Epoch  37 , training err  0.432 %, val err  2.34 %, patience  7 
+
+Epoch  38 , training err  0.316 %, val err  2.09 %, patience  6 
+
+Epoch  39 , training err  0.582 %, val err  2.2 %, patience  5 
+
+Epoch  40 , training err  0.336 %, val err  1.97 %, patience  4 
+
+Epoch  41 , training err  0.394 %, val err  2.2 %, patience  3 
+
+Epoch  42 , training err  0.586 %, val err  2.03 %, patience  2 
+
+Epoch  43 , training err  0.408 %, val err  2.22 %, patience  1 
+
+Epoch  44 , training err  0.464 %, val err  2.01 %, patience  0 
+
+Best val err  1.91 % at epoch  24  corresponding train err  0.424 %
