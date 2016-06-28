@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"li",
+				"listInput"
+			],
+			[
 				"ex",
 				"Exception"
 			],
@@ -176,11 +180,18 @@
 	"buffers":
 	[
 		{
-			"file": "problem2.py",
 			"settings":
 			{
-				"buffer_size": 2359,
+				"buffer_size": 0,
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/University/MHTK/FinalProject/Prob1/Ex1/Data MNIST/read-mnist.py",
+			"settings":
+			{
+				"buffer_size": 1199,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -248,9 +259,12 @@
 	},
 	"expanded_folders":
 	[
+		"/E/University/MHTK/FinalProject/Prob2"
 	],
 	"file_history":
 	[
+		"/E/University/Machine Learning - Class 2015/EX-07-NeuralNet/vis.py",
+		"/E/University/MHTK/FinalProject/Prob2/problem2.py",
 		"/E/University/MHTK/FinalProject/Prob2/input2000.txt",
 		"/E/University/MHTK/FinalProject/Prob2/input200.txt",
 		"/E/University/MHTK/FinalProject/Prob2/hello.txt",
@@ -360,33 +374,61 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "problem2.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2359,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2218,
-								2218
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/E/University/MHTK/FinalProject/Prob1/Ex1/Data MNIST/read-mnist.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1199,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17,
+								17
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1025.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -428,7 +470,7 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 392.0
+		"height": 173.0
 	},
 	"output.find_results":
 	{
