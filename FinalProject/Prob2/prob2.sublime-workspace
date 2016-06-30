@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"acc",
+				"accuracy2"
+			],
+			[
+				"svm",
+				"svm_acc"
+			],
+			[
 				"li",
 				"listInput"
 			],
@@ -168,10 +176,6 @@
 				"EpsDfaTable"
 			],
 			[
-				"acc",
-				"acceptedState"
-			],
-			[
 				"p",
 				"prob1"
 			]
@@ -183,7 +187,15 @@
 			"file": "problem2.py",
 			"settings":
 			{
-				"buffer_size": 4659,
+				"buffer_size": 4908,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/University/MHTK/FinalProject/Prob1/mulitlayer_sigmoid.txt",
+			"settings":
+			{
+				"buffer_size": 12020,
 				"line_ending": "Windows"
 			}
 		}
@@ -256,6 +268,7 @@
 	],
 	"file_history":
 	[
+		"/E/University/MHTK/FinalProject/Prob1/Ex1/Slide Neural Network/neuralnetwork.py",
 		"/E/University/MHTK/FinalProject/Prob2/input200.txt",
 		"/E/University/MHTK/FinalProject/Prob2/input200_760_210.txt",
 		"/C/Users/Dell/Downloads/bars3d_demo.py",
@@ -372,7 +385,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -381,15 +394,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4659,
+						"buffer_size": 4908,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4570,
-								4588
+								4630,
+								4678
 							]
 						],
 						"settings":
@@ -399,7 +412,35 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2539.0,
+						"translation.y": 2385.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/E/University/MHTK/FinalProject/Prob1/mulitlayer_sigmoid.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12020,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2767.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
